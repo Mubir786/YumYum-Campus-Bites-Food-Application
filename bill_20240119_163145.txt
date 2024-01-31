@@ -1,0 +1,6 @@
+************ Food Panda Bill ************
+Item 1               0
+Item 14              0
+Item 15              0
+
+Total: 3120.00 PKR

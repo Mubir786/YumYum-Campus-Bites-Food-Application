@@ -1,0 +1,9 @@
+pitza,large,2000,
+PITZA,LARGE,2000,
+pitza,large,1000,
+burger,large,500,
+7up,1ltr,120,
+burger,large,500,
+chicken burger,medium,690,
+pitza,large,1500
+pitza,large,1500

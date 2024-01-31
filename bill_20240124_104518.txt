@@ -1,0 +1,6 @@
+************ YumYum Campus Bites Food Application ************
+Item 5               0
+Item 6               0
+Item 18              0
+
+Total: 6000.00 PKR
